@@ -127,7 +127,7 @@ arena as net.getAddressList() creates an arena internally.
 # The Next Big Step
 
 Now that we can connect to a host, it's time to start speaking the protocol. I
-don't want to worry abour parsing just yet, I just want to send a request over
+don't want to worry about parsing just yet, I just want to send a request over
 http and read a response. At that point I also want to give stunnel a quick
 test run so we get https for free, and can wait until later to deal with it
 correctly.
